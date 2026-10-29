@@ -1,0 +1,8 @@
+[00:05] Alex: Good morning everyone, thanks for joining the weekly sprint sync.
+[00:15] Sarah: Morning Alex. I have an update on the infrastructure. I will deploy the staging database migration by Friday.
+[00:28] Alex: That's great news, Sarah. Jordan, can you please review the frontend PR by tomorrow?
+[00:39] Jordan: Yes, absolutely. I will review the pull request today before 5pm.
+[00:48] Sarah: Also, Alex, we must update the public API documentation before next Tuesday.
+[00:58] Alex: Agreed, let's make sure the docs team has everything by end of day Monday.
+[01:10] Alex: Thanks everyone, let's get back to building!
+
